@@ -13,6 +13,14 @@
  * we cannot take responsibility for errors or fitness for use.
  *
  * $Id: _main.c.in,v 1.21 2004/10/14 20:11:39 corbet Exp $
+ * rev author date
+ * my git tutorial change  jsl jan 2013
+ * my git tutorial change1 jsl jan 2013
+ * my git tutorial change2 jsl jan 2013
+ * my git tutorial change3 jsl jan 2013
+ * my git tutorial change4 jsl jan 2013
+ * my git tutorial change4 jsl jan 2013
+ * my git tutorial change5 jsl jan 2013
  */
 
 #include <linux/module.h>
@@ -605,3 +613,4 @@ void scullc_cleanup(void)
 
 module_init(scullc_init);
 module_exit(scullc_cleanup);
+
